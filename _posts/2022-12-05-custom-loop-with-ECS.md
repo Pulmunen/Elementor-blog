@@ -5,11 +5,10 @@ date: 2022-12-05
 
 
 When you install Ele Custom Skins you get a new tab on your theme builder: loop
-[theme builder start]
 <img src="/assets/images/theme builder start.png" alt="Theme Builder with Ele Custom Skins installed" style="width:100%;"/>
 
-Click add now.
-The library page comes up.  If you already have done the design work (which you have), you can select that at this point, otherwise create a fresh template that you can copy and paste into or design from scratch.
+Click add new.
+The theme builder library page comes up.  If you already have done the design work, you can select that at this point, otherwise create a fresh template that you can copy and paste into or design from scratch.
 <img src="/assets/images/open theme builder.png" alt="Open Theme Builder" style="width:100%;"/>
 Select insert.
 At this point, the Elementor/ElementorPro editor opens up.
