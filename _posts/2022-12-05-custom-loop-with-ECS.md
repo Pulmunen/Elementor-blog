@@ -6,7 +6,7 @@ date: 2022-12-05
 
 When you install Ele Custom Skins you get a new tab on your theme builder: loop
 
-<img src="/assets/images/theme builder start.png" alt="Theme Builder with Ele Custom Skins installed" style="width:70%; margin-left:auto; margin-right:auto;"/>
+<img src="/assets/images/theme builder start.png" alt="Theme Builder with Ele Custom Skins installed" style="width:70%; margin-left:auto; margin-right:auto; margin-top:40px; margin-bottom:40px;"/>
 
 Click add new to add a new loop.
 The theme builder library page comes up.  If you already have done the design work, you can select that at this point, otherwise create a fresh template that you can copy and paste into or design from scratch.
