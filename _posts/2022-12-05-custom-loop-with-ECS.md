@@ -10,7 +10,7 @@ When you install Ele Custom Skins you get a new tab on your theme builder: loop
 
 Click add new to add a new loop.
 The theme builder library page comes up.  If you already have done the design work, you can select that at this point, otherwise create a fresh template that you can copy and paste into or design from scratch.
-<img src="/assets/images/open-theme-builder.png" alt="Open Theme Builder" style="width:100%;"/>
+<img src="/assets/images/open-theme-builder.png" alt="Open Theme Builder" style="width:70%; margin-left:auto; margin-right:auto; margin-top:40px; margin-bottom:40px;"/>
 Select insert.
 At this point, the Elementor/ElementorPro editor opens up.
 
@@ -30,7 +30,7 @@ Add the posts widget where you want your latest post to appear.  Under layout > 
 
 Set columns and posts per page to 1.  If you want, you can play around with the query, but by defalt you will have the latest post only visible now, because you set posts per page to 1 and the default query shows posts from newest to oldest.
 
-<img src="/assets/images/select-loop-in-posts.png" alt="Selecting and setting the loop" style="width:70%; margin-left:auto; margin-right:auto; margin-top:40px; margin-bottom:40px;""/>
+<img src="/assets/images/select-loop-in-posts.png" alt="Selecting and setting the loop" style="width:70%; margin-left:auto; margin-right:auto; margin-top:40px; margin-bottom:40px;"/>
 
 ### Further resources (YouTube)
 
