@@ -28,3 +28,10 @@ Your design now shows up in the theme builder as a loop.
 Add the posts widget where you want your latest post to appear.  Under layout > skin select custom. Select a default template > select the loop design you've just created.
 
 Set columns and posts per page to 1.  If you want, you can play around with the query, but by defalt you will have the latest post only visible now, because you set posts per page to 1 and the default query shows posts from newest to oldest.
+
+<img src="/assets/images/select loop in posts.png" alt="Selecting and setting the loop" style="width:100%;"/>
+
+### Further resources (YouTube)
+
+The Ele Custom Skins homepage itself links to a [WPTuts video]([https://www.youtube.com/watch?v=F7QRFgw4DCo](https://www.youtube.com/watch?v=DwLFdaZ69KU&t=94s)).These are usually really good.
+A video with a bit more background is from [LivingWithPixels](https://www.youtube.com/watch?v=F7QRFgw4DCo).
