@@ -10,11 +10,16 @@ When you install Ele Custom Skins you get a new tab on your theme builder: loop
 
 Click add new to add a new loop.
 The theme builder library page comes up.  If you already have done the design work, you can select that at this point, otherwise create a fresh template that you can copy and paste into or design from scratch.
+
 <img src="/assets/images/open-theme-builder.png" alt="Open Theme Builder" style="width:70%; margin-left:auto; margin-right:auto; margin-top:40px; margin-bottom:40px;"/>
+
 Select insert.
+
 At this point, the Elementor/ElementorPro editor opens up.
 
+
 <img src="/assets/images/design-in-loop.png" alt="The loop design" style="width:70%; margin-left:auto; margin-right:auto; margin-top:40px; margin-bottom:40px;"/>
+
 
 This is where you actually do the design/layout work.  Because you have already done all the styling, you should be able to use that here (either select your design from the library page or copy and paste it into here).
 
