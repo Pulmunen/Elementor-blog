@@ -6,7 +6,7 @@ date: 2022-12-05
 
 When you install Ele Custom Skins you get a new tab on your theme builder: loop
 
-![themebuilderstarter](/docs/assets/theme-builder-start.png)
+![themebuilderstarter](/assets/theme-builder-start.png)
 
 <img src="Elementor-blog/docs/assets/theme-builder-start.png" alt="Theme Builder with Ele Custom Skins installed" style="width:70%; margin-left:auto; margin-right:auto; margin-top:40px; margin-bottom:40px;"/>
 
