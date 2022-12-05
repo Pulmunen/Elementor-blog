@@ -28,7 +28,7 @@ Once you're happy with the design, hit publish to save. Don't set any conditions
 Your design now shows up in the theme builder as a loop.
 
 
-<img src="{{site.baseurl | prepend: site.url}}/docs/assets/loop-insert-to-posts.png" alt="Inserting loop into posts widget" />
+<img src="{{site.baseurl | prepend: site.url}}/docs/assets/loop-in-theme-builder.png" alt="Inserting loop into posts widget" />
 
 
 Add the posts widget where you want your latest post to appear.  Under layout > skin select custom. Select a default template > select the loop design you've just created.
