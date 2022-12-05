@@ -7,7 +7,7 @@ date: 2022-12-05
 When you install Ele Custom Skins you get a new tab on your theme builder: loop
 <img src="/assets/images/theme builder start.png" alt="Theme Builder with Ele Custom Skins installed" style="width:100%;"/>
 
-Click add new.
+Click add new to add a new loop.
 The theme builder library page comes up.  If you already have done the design work, you can select that at this point, otherwise create a fresh template that you can copy and paste into or design from scratch.
 <img src="/assets/images/open theme builder.png" alt="Open Theme Builder" style="width:100%;"/>
 Select insert.
@@ -19,10 +19,12 @@ This is where you actually do the design/layout work.  Because you have already 
 
 Set the dynamic fields (post title, featured post) as you would normally, so drag and drop a post title, featured image and whatever else you need.  This part should be identical to how you would work normally.
 
-Once you're happy with the design, hit publish and go back in to the page you want to add this to (in this case home).
-Don't set any conditions when you save.
+Once you're happy with the design, hit publish to save. Don't set any conditions when you save. 
+
 Your design now shows up in the theme builder as a loop.
-Add the posts widget where you want your latest post to appear.  Under layout > skin select custom. Select a default template > select the loop design you've just created.
+
 <img src="/assets/images/loop insert to posts.png" alt="Inserting loop into posts widget" style="width:100%;"/>
-<img src="/assets/images/posts pre skin.png" alt="The posts widget before the custom skin is applied" style="width:100%;"/>
+
+Add the posts widget where you want your latest post to appear.  Under layout > skin select custom. Select a default template > select the loop design you've just created.
+
 Set columns and posts per page to 1.  If you want, you can play around with the query, but by defalt you will have the latest post only visible now, because you set posts per page to 1 and the default query shows posts from newest to oldest.
