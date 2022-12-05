@@ -14,7 +14,7 @@ The theme builder library page comes up.  If you already have done the design wo
 Select insert.
 At this point, the Elementor/ElementorPro editor opens up.
 
-<img src="/assets/images/design-in-loop.png" alt="The loop design" style="width:100%;"/>
+<img src="/assets/images/design-in-loop.png" alt="The loop design" style="width:70%; margin-left:auto; margin-right:auto; margin-top:40px; margin-bottom:40px;"/>
 
 This is where you actually do the design/layout work.  Because you have already done all the styling, you should be able to use that here (either select your design from the library page or copy and paste it into here).
 
@@ -24,13 +24,13 @@ Once you're happy with the design, hit publish to save. Don't set any conditions
 
 Your design now shows up in the theme builder as a loop.
 
-<img src="/assets/images/loop insert-to-posts.png" alt="Inserting loop into posts widget" style="width:100%;"/>
+<img src="/assets/images/loop-insert-to-posts.png" alt="Inserting loop into posts widget" style="width:70%; margin-left:auto; margin-right:auto; margin-top:40px; margin-bottom:40px;"/>
 
 Add the posts widget where you want your latest post to appear.  Under layout > skin select custom. Select a default template > select the loop design you've just created.
 
 Set columns and posts per page to 1.  If you want, you can play around with the query, but by defalt you will have the latest post only visible now, because you set posts per page to 1 and the default query shows posts from newest to oldest.
 
-<img src="/assets/images/select-loop-in-posts.png" alt="Selecting and setting the loop" style="width:100%;"/>
+<img src="/assets/images/select-loop-in-posts.png" alt="Selecting and setting the loop" style="width:70%; margin-left:auto; margin-right:auto; margin-top:40px; margin-bottom:40px;""/>
 
 ### Further resources (YouTube)
 
