@@ -14,7 +14,7 @@ The theme builder library page comes up.  If you already have done the design wo
 
 Select insert.
 
-At this point, the Elementor/ElementorPro editor opens up.
+At this point, the Elementor/ElementorPro editor opens up - by default with the latest post as preview.
 
 <img src="{{site.baseurl | prepend: site.url}}/docs/assets/design-in-loop.png" alt="design in loop" />
 
